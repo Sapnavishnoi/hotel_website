@@ -1,0 +1,17 @@
+{
+  "name": "hotel_website_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "register.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.19.4",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.19.2"
+  }
+}
